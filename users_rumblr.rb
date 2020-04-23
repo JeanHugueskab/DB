@@ -1,0 +1,2 @@
+class UsersRumblr < ApplicationRecord
+end
